@@ -1,1 +1,3 @@
 # Letter-Game
+
+User data is not used in our application. Our data is in our system and players can play safely.
